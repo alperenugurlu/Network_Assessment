@@ -43,4 +43,6 @@ The main functions are:
 
 `Alperen Ugurlu`
 
-# Social media:
+# Social Media:
+
+`https://www.linkedin.com/in/alperen-ugurlu-7b57b7178/`
