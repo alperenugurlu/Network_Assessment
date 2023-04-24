@@ -26,9 +26,12 @@ The main functions are:
 
 # How to Install Script?
 
-git clone 
+** git clone https://github.com/alperenugurlu/Network_Assessment.git
+*** pip3 install -r requirements.txt
 
 # How to Run the Script?
+
+python3 
 
 #Script Creator
 Alperen Ugurlu
