@@ -1,7 +1,6 @@
 # Network_Assessment
 
-![image](https://user-images.githubusercontent.com/64872731/234103558-c0ce6d03-0d7e-4bf2-a1ca-b1681ce22547.png)
-
+![image](https://user-images.githubusercontent.com/64872731/234103965-315b74ae-84fa-4ffb-a993-1ae3999852a5.png)
 
 
 With Wireshark or TCPdump, you can determine whether there is harmful activity on your network traffic that you have recorded on the network you monitor.
