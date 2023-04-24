@@ -26,14 +26,18 @@ The main functions are:
 
 # How to Install Script?
 
-*** git clone https://github.com/alperenugurlu/Network_Assessment.git
-*** pip3 install -r requirements.txt
+`git clone https://github.com/alperenugurlu/Network_Assessment.git`
+
+`pip3 install -r requirements.txt`
 
 # How to Run the Script?
 
-python3 
+`python3 Network_Compromise_Assessment.py`
+
+`Please enter the path to the .pcap or .pcapng file: /root/Desktop/TCP_RST_Attack.pcap` (Example)
 
 #Script Creator
-Alperen Ugurlu
+
+`Alperen Ugurlu`
 
 #Social media:
