@@ -36,8 +36,8 @@ The main functions are:
 
 `Please enter the path to the .pcap or .pcapng file: /root/Desktop/TCP_RST_Attack.pcap` (Example)
 
-#Script Creator
+# Script Creator
 
 `Alperen Ugurlu`
 
-#Social media:
+# Social media:
