@@ -1,4 +1,8 @@
 # Network_Assessment
+
+![image](https://user-images.githubusercontent.com/64872731/234103212-307dfc72-4b39-4867-bbc9-d467af93c313.png)
+
+
 With Wireshark or TCPdump, you can determine whether there is harmful activity on your network traffic that you have recorded on the network you monitor.
 
 This Python script analyzes network traffic in a given .pcap file and attempts to detect the following suspicious network activities and attacks:
