@@ -1,2 +1,4 @@
-pyshark==0.4.3
-scapy==2.4.5
+scapy
+pyshark
+colorama
+argparse
